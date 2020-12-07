@@ -1,0 +1,93 @@
+
+
+body {
+    color: darkblue;
+    font-family: Helvetica;
+    font-size: 14px;
+    text-align: center;
+}
+
+#gray-background{
+    background-color:lightgray;
+}
+
+.menu{
+    background-color: salmon;
+    height: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding: 5%;
+   
+}
+
+.list-menu {
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    background-color: rgb(247, 193, 19);
+    
+  }
+
+.menu-item {
+    display: inline;
+    list-style-type: none;
+  
+}
+  
+
+.title{
+    background-color: sandybrown;
+    border: 3px solid salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 15px;
+}
+
+.H1{
+    border: 3px solid salmon;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.H2{
+    border: 3px solid salmon;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.header {
+    border: 8px solid yellow;
+    margin: 20px;
+    padding-top: 5%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    padding: 8% 3%;
+
+}
+
+.main {
+    border: 8px solid purple;
+    margin: 0 auto;
+    width: auto;
+    padding: 5% 30%;
+
+}
+
+.footer {
+    border: 8px solid blue;
+    background-color: salmon;
+    font-family: helvetica;
+    font-size: 10px;
+    text-align: center;
+    height: 40px;
+    padding: 5%;
+
+
+}
